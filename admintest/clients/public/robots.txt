@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://gr8guru.com/
+
+# Sitemaps
+Sitemap: https://gr8guru.com/sitemap.xml

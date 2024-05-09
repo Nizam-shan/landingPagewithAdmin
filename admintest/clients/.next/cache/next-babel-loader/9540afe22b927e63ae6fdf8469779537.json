@@ -1,0 +1,1 @@
+{"ast":null,"code":"export default [{\n  path: 'home',\n  label: 'Home'\n}, {\n  path: 'ultimate-feature',\n  label: 'Feature'\n}, {\n  path: 'pricing',\n  label: 'Pricing'\n}, {\n  path: 'faq',\n  label: 'Faq'\n}];","map":null,"metadata":{},"sourceType":"module"}

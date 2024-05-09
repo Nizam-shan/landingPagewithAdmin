@@ -1,0 +1,1 @@
+{"ast":null,"code":"var __jsx = React.createElement;\nimport React from \"react\";\nconst FileInput = ({\n  id,\n  onChange\n}) => {\n  return __jsx(\"div\", null, __jsx(\"input\", {\n    type: \"file\",\n    id: id,\n    onChange: onChange\n  }));\n};\nexport default FileInput;","map":null,"metadata":{},"sourceType":"module"}
